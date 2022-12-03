@@ -1,6 +1,30 @@
 # Proyecto-TC1033-A01710605
 
-Al haber muchos servicios de streaming actualmente, creo que es necesario comprender como es que estas aplicaciones funcionan y como su programacion entra en la estrctura de orientada a objetos. El servicio del streaming se ha vuelto un negocio muy lucrativo y esto ha dado cabida a no solo la globalizacion en cuanto al contenido que consumimos en cada pais, si no a diversos tipo de peliculas y series que tienen un enfoque diferente al de una serie de televesion abierta, tambien esta le ha dado cabida a mas oportunidades para la diversidad y la representacion. 
+# Prerequisitos 
 
-De esta manera nos podemos dar cuenta como es que estos tipo de servicios son benificioso para los consumidores como para los actores, siendo asi hay una gran gama de este tipo de servicios, desde Disney Plus, HBO Max, Netflix, Amazon Prime Video, Star Plus y mas. 
-Este tipo de aplicaciones necesitan un codigo general que hace que estes funcionen, ya que al final de dia son apps hechas para poder ver un contenido audiovisual, por lo que mi proyecto busca represntar de una manera grafica como funcionan estos elementos (peiiculas y series)  en una programacion con clases y objetos, y asi conocer el formato de este tipo de apps.
+Haber instalado un compilador de c++
+
+compilar con: "g++ main.cpp -o xd" 
+correr en windows: "./xd.exe"
+
+Contexto:
+Cuando quieres comprar algo en una tienda y ocupas una tarjeta de credito para pagar, siempre es muy comun ver como se ocupan las terminales, estas generan una factura donde te especifica con lujo de detalle lo que se realizo en la compra, el proyecto trata de simular como funciona un sistema de facturas o tickets de compras, muestra en pantalla el cliente, dirreccion de entrega, numero personal, producto y mas. Tambien este te deja crear tu propio pedido para poder guardarlo. 
+
+#Funcionalidad
+Mostrar como la funcionalidad de como una factura se puede generar atraves de las siguientes preguntas
+
+Nombre del Producto: ()
+Precio del Producto: ()
+Nombre: ()
+Apellido: () 
+Dirreccion: ()
+Numero: ()
+Metodo de pago: ()
+
+El programa funciona con 3 clases y con 3 archivos cpps que se ocupan como una extension para poder los objetos de la clase cliente que es la que mas atributos ocupa
+
+#Consideraciones
+
+*Los productos creados se guardan automaticamente 
+*Puedes acceder al arreglo de los productos, sin embargo para modificarlo debes estar entrar en el main.
+

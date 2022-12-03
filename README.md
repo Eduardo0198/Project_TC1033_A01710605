@@ -15,13 +15,13 @@ Cuando quieres comprar algo en una tienda y ocupas una tarjeta de credito para p
 
 Mostrar como la funcionalidad de como una factura se puede generar atraves de las siguientes preguntas
 
-Nombre del Producto: ()
-Precio del Producto: ()
-Nombre: ()
-Apellido: () 
-Dirreccion: ()
-Numero: ()
-Metodo de pago: ()
+# Nombre del Producto: ()
+# Precio del Producto: ()
+# Nombre: ()
+# Apellido: () 
+# Dirreccion: ()
+# Numero: ()
+# Metodo de pago: ()
 
 El programa funciona con 3 clases y con 3 archivos cpps que se ocupan como una extension para poder los objetos de la clase cliente que es la que mas atributos ocupa
 

@@ -1,8 +1,5 @@
 # Proyecto-TC1033-A01710605
 
-# Link del UML
-https://lucid.app/lucidchart/277099cf-a384-4c95-a3ec-361bbcdcb8e2/edit?view_items=wGJ_HXIQBvQs&invitationId=inv_8a41b86a-c5b4-4b7b-965e-c535e1c80bcc
-
 # Prerequisitos 
 
 Haber instalado un compilador de c++

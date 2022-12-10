@@ -16,12 +16,19 @@ Cuando quieres comprar algo en una tienda y ocupas una tarjeta de credito para p
 El programa te muestra como se manipulan los datos para poder generar una factura de varias compras:
 Teniendo tres clientes que te muestran como interactuan las clases, el ticket tiene como contenido:
 
-https://www.youtube.com
+--Formato del Ticket--
+1. Producto
+2. Precio
+3. Cantidad (Productos)
+4. Cantidad a pagar
+5. Nombre del Cliente
+6. Dirreccion
+7. Celular
+8. Numero de Folio
 
-El programa funciona con 3 clases y con 3 archivos cpps que se ocupan como una extension para poder los objetos de la clase cliente que es la que mas atributos ocupa
+El programa funciona con 5 clases y un archivo tipo cpp que es el main.
 
 # Consideraciones
 
-*Los productos creados se guardan automaticamente 
-*Puedes acceder al arreglo de los productos, sin embargo para modificarlo debes estar entrar en el main.
+*tener abiertas las clases para poder correr el codigo
 

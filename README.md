@@ -13,15 +13,10 @@ Cuando quieres comprar algo en una tienda y ocupas una tarjeta de credito para p
 
 # Funcionalidad
 
-Mostrar como la funcionalidad de como una factura se puede generar atraves de las siguientes preguntas
+El programa te muestra como se manipulan los datos para poder generar una factura de varias compras:
+Teniendo tres clientes que te muestran como interactuan las clases, el ticket tiene como contenido:
 
- Nombre del Producto: ()
- Precio del Producto: ()
- Nombre: ()
- Apellido: () 
- Dirreccion: ()
- Numero: ()
- Metodo de pago: ()
+https://www.youtube.com
 
 El programa funciona con 3 clases y con 3 archivos cpps que se ocupan como una extension para poder los objetos de la clase cliente que es la que mas atributos ocupa
 
